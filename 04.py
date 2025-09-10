@@ -1,8 +1,13 @@
-# Exercício 4: Par ou ímpar
-# Complete a condição para verificar se o número é par ou ímpar
-n = int(input("Digite um número: "))
+# Exercício 4: Maior de três números
+# Complete para descobrir o maior entre a, b e c
+
+a = int(input("Digite o Primeiro número: "))
+b = int(input("Digite o Segundo número: "))
+c = int(input("Digite o Terceiro número: "))
 
 if ... :
-    print("Par")
+    print("O Primeiro número é o maior")
+elif ... :
+    print("O Segundo número é o maior")
 else:
-    print("Ímpar")
+    print("O Terceiro número é o maior")

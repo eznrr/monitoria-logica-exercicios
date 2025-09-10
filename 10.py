@@ -1,21 +1,9 @@
 # Exercício 10: Dia da semana
-# Use match-case para imprimir o dia correspondente
-dia = int(input("Digite um número de 1 a 7: "))
+# Use match-case
 
-match dia:
-    case 1:
-        ...
-    case 2:
-        ...
-    case 3:
-        ...
-    case 4:
-        ...
-    case 5:
-        ...
-    case 6:
-        ...
-    case 7:
-        ...
-    case _:
-        print("Dia inválido")
+"""
+    - O programa de pedir ao usuário que digite um número inteiro de 1 a 7.
+    - O programa deve exibir o dia da semana correspondente ao número.
+    - Caso o usuário digite um número fora desse intervalo, o programa deve
+      mostrar a mensagem "Dia inválido"
+"""

@@ -1,5 +1,6 @@
 # Exercício 1: Comparação de números
 # Complete a condição para verificar se x é maior, menor ou igual a y
+
 x = int(input("Digite o primeiro número: "))
 y = int(input("Digite o segundo número: "))
 
